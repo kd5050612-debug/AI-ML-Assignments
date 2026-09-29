@@ -219,7 +219,7 @@ This repository contains my **AIML (Artificial Intelligence & Machine Learning) 
 </p>
 
 <p align="center">
-  <img src="images/experiment5-output2.png" width="900" alt="Experiment 5 - Output 2"/>
+  <img src="Screenshot%202026-09-29%20183600.png" width="900" alt="Experiment 5 - Output 2"/>
   <br/><sub><b>Output 2</b></sub>
 </p>
 
