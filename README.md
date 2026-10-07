@@ -227,6 +227,40 @@ This repository contains my **AIML (Artificial Intelligence & Machine Learning) 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
+
+---
+## 🧪 Experiment 6
+
+<!-- ✏️ Add the aim / title of Experiment 6 (Assignment 6) here -->
+
+<details>
+<summary><b>🟡 View outputs (4 screenshots)</b></summary>
+<br/>
+
+<p align="center">
+  <img src="images/exp6_output1.png" width="900" alt="Experiment 6 - Output 1"/>
+  <br/><sub><b>Output 1 - Simple Line Chart</b></sub>
+</p>
+
+<p align="center">
+  <img src="images/exp6_output2.png" width="900" alt="Experiment 6 - Output 2"/>
+  <br/><sub><b>Output 2 - Comparison of Datasets (Multiple Lines, Legend, Grid)</b></sub>
+</p>
+
+<p align="center">
+  <img src="images/exp6_output3.png" width="900" alt="Experiment 6 - Output 3"/>
+  <br/><sub><b>Output 3 - Scatter Plot and Line Plot (Subplots)</b></sub>
+</p>
+
+<p align="center">
+  <img src="images/exp6_output4.png" width="900" alt="Experiment 6 - Output 4"/>
+  <br/><sub><b>Output 4 - Marks Distribution Pie Chart</b></sub>
+</p>
+
+</details>
+
+<p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
+
 ---
 
 ## ⭐ Support
