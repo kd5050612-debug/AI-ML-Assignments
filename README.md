@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=220&section=header&text=AIML%20LAB%20EXPERIMENTS&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20and%20Machine%20Learning&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
 <a href="#-table-of-contents">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=Welcome+to+my+AIML+Lab+Repository;5+Experiments+with+Code+and+Outputs;Learning+by+Building;Python+%7C+AI+%7C+Machine+Learning" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=45&lines=Welcome+to+my+AIML+Lab+Repository;6+Experiments+with+Code+and+Outputs;Learning+by+Building;Python+%7C+AI+%7C+Machine+Learning" alt="typing animation"/>
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Experiments-5-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experiments-6-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge"/>
 
 </div>
@@ -39,6 +39,7 @@ This repository contains my **AIML (Artificial Intelligence & Machine Learning) 
 | 🟢 | [Experiment 3](#-experiment-3) | 🖼️ 3 |
 | 🟠 | [Experiment 4](#-experiment-4) | 🖼️ 1 |
 | 🔴 | [Experiment 5](#-experiment-5) | 🖼️ 2 |
+| 🟡 | [Experiment 6](#-experiment-6) | 🖼️ 4 |
 
 </div>
 
@@ -227,8 +228,8 @@ This repository contains my **AIML (Artificial Intelligence & Machine Learning) 
 
 <p align="right"><a href="#-table-of-contents">⬆️ Back to top</a></p>
 
-
 ---
+
 ## 🧪 Experiment 6
 
 <!-- ✏️ Add the aim / title of Experiment 6 (Assignment 6) here -->
@@ -238,22 +239,22 @@ This repository contains my **AIML (Artificial Intelligence & Machine Learning) 
 <br/>
 
 <p align="center">
-  <img src="images/exp6_output1.png" width="900" alt="Experiment 6 - Output 1"/>
+  <img src="Screenshot%202026-10-06%20101045.png" width="900" alt="Experiment 6 - Output 1"/>
   <br/><sub><b>Output 1 - Simple Line Chart</b></sub>
 </p>
 
 <p align="center">
-  <img src="images/exp6_output2.png" width="900" alt="Experiment 6 - Output 2"/>
+  <img src="Screenshot%202026-10-06%20101103.png" width="900" alt="Experiment 6 - Output 2"/>
   <br/><sub><b>Output 2 - Comparison of Datasets (Multiple Lines, Legend, Grid)</b></sub>
 </p>
 
 <p align="center">
-  <img src="images/exp6_output3.png" width="900" alt="Experiment 6 - Output 3"/>
+  <img src="Screenshot%202026-10-06%20101117.png" width="900" alt="Experiment 6 - Output 3"/>
   <br/><sub><b>Output 3 - Scatter Plot and Line Plot (Subplots)</b></sub>
 </p>
 
 <p align="center">
-  <img src="images/exp6_output4.png" width="900" alt="Experiment 6 - Output 4"/>
+  <img src="exp6_output4.png" width="900" alt="Experiment 6 - Output 4"/>
   <br/><sub><b>Output 4 - Marks Distribution Pie Chart</b></sub>
 </p>
 
